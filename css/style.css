@@ -175,6 +175,7 @@ html{
     @media (max-width:576px) {
         .alert{
             background: rgb(244, 209, 253) !important;
+            width:100%;
         }
         .alert .btn1 a{
             font-size: 12px !important;
